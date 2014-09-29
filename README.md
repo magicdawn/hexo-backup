@@ -19,6 +19,10 @@ backup:
   repo: git@gitcafe.com:magicdawn/magicdawn.git
 ```
 
+PS:
+gitcafe 毕竟是国内的,比github io快上不少
+
+
 #使用
 ```shell
 hexo backup --init #初始化备份
