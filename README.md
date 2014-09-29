@@ -26,3 +26,6 @@ hexo backup #备份操作
 ```
 
 b -> backup的简写
+
+#协议
+MIT
