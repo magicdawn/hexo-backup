@@ -1,4 +1,6 @@
 #hexo-backup
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/hexo-backup.svg)](https://greenkeeper.io/)
 hexo备份插件
 
 #安装
